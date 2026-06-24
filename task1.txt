@@ -1,1 +1,3 @@
 git commit is used to send the changes made in the working directory to the remote repository. it is done by using git commit command using this command along with a message
+
+test change
